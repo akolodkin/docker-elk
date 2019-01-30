@@ -17,7 +17,8 @@ logstash:
 #password is: 9SgbcYBs4y8xRcxu
 kibanaserver:
   readonly: true
-  hash: $2y$12$qjiVj.ZwnevQCoDF82rYeuuGNVEvO/AaQH2Ezv9T1EwWES05YWCl.
+  hash: $2y$12$jfSWbbVWOPm4eGftnoFTuOK7OOr2W/nJM8nKNEk/kXMdTFHWnCSZq
+  roles:
     - admin
 
 #password is: cqk7rNkTADv6xr34
