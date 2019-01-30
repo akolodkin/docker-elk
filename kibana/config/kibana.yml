@@ -9,6 +9,6 @@ elasticsearch.url: http://elasticsearch:9200
 ## Custom configuration
 #
 elasticsearch.username: "kibanaserver"
-elasticsearch.password: "kibanaserver"
+elasticsearch.password: "9SgbcYBs4y8xRcxu"
 
 searchguard.cookie.password: "123567818187654rwrwfsfshdhdhtegdhfzftdhncn"
