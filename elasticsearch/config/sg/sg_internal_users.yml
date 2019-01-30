@@ -4,37 +4,37 @@
 #password is: JH7kAxA4JLrXjmBq
 admin:
   readonly: true
-  hash: $2y$12$ALZJGP3pNrVpW9hJQ3gYAeAsdKnUi2GecB1cavFudpkk9zxPHJyhW
+  hash: $2y$12$C3TH8qQfHDKvkAs2xNOvCOsx8MlWcY6/GmbpfCLQUfDyEw3qrvuLq
   roles:
     - admin
 
 #password is: AKtsWpTWr9hWUQDv
 logstash:
-  hash: $2y$12$wqW66fqkAuH0iqpknLDKQerGSyeKIqsQm4BSgJ1GkAnF6LUVjeDRW
+  hash: $2y$12$NQBCcdCy8aWIOfuo4qx3iuo9Drsopol14mffqGQfJq52mGXmLShXG
   roles:
     - logstash
 
 #password is: 9SgbcYBs4y8xRcxu
 kibanaserver:
   readonly: true
-  hash: $2y$12$3x/nTQHUnSXjo4kdMjL3leaHdtbei2yii/Wn8.G2c3em2LkU0BC82
+  hash: $2y$12$qjiVj.ZwnevQCoDF82rYeuuGNVEvO/AaQH2Ezv9T1EwWES05YWCl.
     - admin
 
 #password is: cqk7rNkTADv6xr34
 kibanaro:
-  hash: $2y$12$XAm1wWOVknzvGYpJDrCVwuO9wdm64amXreUCFx7d.CYiGLkbiw1Bq
+  hash: $2y$12$RA0zf9d7OaBnTFIc5to.DOxrvhjnyw7j7sosCON0/AZ8EnMNNMEYi
   roles:
     - kibanauser
     - readall
 
 #password is: DJ9J2dRm2EHaLdg7
 readall:
-  hash: $2y$12$V3XYFFcjrgt2fuOyOGmzq.gKzsPu5ncZDZt.404YMqthnk3MVSNkW
+  hash: $2y$12$LjUxmwEQ.IaRPa9jdKfR9Oft7B6T//K7nvnpUnvD6roibOn3aQrGC
   roles:
     - readall
 
 #password is: Wcm6W6AeDntK3kEF
 snapshotrestore:
-  hash: $2y$12$PLXOvk2GHELMAs3evQjvsu3/2zjxCo2qvSn02y2jN3fxJmxrNDX0S
+  hash: $2y$12$hppeh5Ybv3joB.sOw8gaW.KglZyaFynUGxep03A8pmPm3COpICDOG
   roles:
     - snapshotrestore
